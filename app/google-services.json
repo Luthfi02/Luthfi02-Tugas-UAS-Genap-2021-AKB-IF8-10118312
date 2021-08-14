@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "988356583328",
+    "firebase_url": "https://uas-10118312-default-rtdb.firebaseio.com",
+    "project_id": "uas-10118312",
+    "storage_bucket": "uas-10118312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988356583328:android:3f80438796981a04218ec5",
+        "android_client_info": {
+          "package_name": "com.tugas.uas_10118312"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988356583328-ifr5chdb9rqnbrg9i2vdqnk78q9915ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUC0ZLocnmKQFiKkap3iOh2Syw6ew2pFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988356583328-ifr5chdb9rqnbrg9i2vdqnk78q9915ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
